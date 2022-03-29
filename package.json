@@ -13,7 +13,8 @@
   },
   "license": "BSD-3-Clause",
   "author": {
-    "name": "0nebody"
+    "name": "0nebody",
+    "email": "0nebody@github.com"
   },
   "files": [
     "lib/**/*.{d.ts,eot,gif,html,jpg,js,js.map,json,png,svg,woff2,ttf}",
