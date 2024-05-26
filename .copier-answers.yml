@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.1
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: 0nebody@github.com
+author_name: 0nebody
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: idle-redirector
+project_short_description: A JupyterLab extension to redirect idle JupyterHub users
+    to the JupyterHub server home.
+python_name: idle_redirector
+repository: https://github.com/0nebody/idle-redirector
+test: false
+
