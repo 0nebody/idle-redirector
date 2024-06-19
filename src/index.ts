@@ -24,7 +24,6 @@ const plugin: JupyterFrontEndPlugin<void> = {
 
     function resetTimer() {
       if (Date.now() - lastTriggeredTime > 10000) {
-        console.log('[idle-redirector] timer reset');
         lastTriggeredTime = Date.now();
         window.clearTimeout(timeoutId);
         startTimer();
