@@ -1,6 +1,6 @@
 {
     "name": "idle-redirector",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "A JupyterLab extension to redirect idle JupyterHub users to the JupyterHub server home.",
     "keywords": [
         "jupyter",
