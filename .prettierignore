@@ -4,3 +4,5 @@ node_modules
 **/package.json
 !/package.json
 idle_redirector
+eslint.config.mjs
+.venv
